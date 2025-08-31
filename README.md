@@ -3,7 +3,7 @@
 An engaging and responsive **Tic-Tac-Toe Web Application** built using **HTML, CSS, and JavaScript**.  
 The game supports **Player vs Player** and **Player vs Computer** modes with smooth animations and a user-friendly interface.  
 
-🌍 **Live Demo**: [Play Here](https://kushwith03.github.io/SCT_WD_3/)  
+🌍 **Live Demo**: [Play Here](https://sakshi2113.github.io/Skill_WD_3/)  
 
 ---
 
@@ -34,4 +34,5 @@ SCT_WD_3/
 │── script.js # Game logic & interactivity
 │── README.md # Project documentation
 ```
+
 
