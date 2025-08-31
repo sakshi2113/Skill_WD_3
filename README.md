@@ -1,4 +1,4 @@
-# 🎮 Interactive Tic-Tac-Toe Game  
+# 🎮  Tic-Tac-Toe Game  
 
 An engaging and responsive **Tic-Tac-Toe Web Application** built using **HTML, CSS, and JavaScript**.  
 The game supports **Player vs Player** and **Player vs Computer** modes with smooth animations and a user-friendly interface.  
@@ -34,5 +34,6 @@ SCT_WD_3/
 │── script.js # Game logic & interactivity
 │── README.md # Project documentation
 ```
+
 
 
